@@ -25,8 +25,4 @@ npm install
 ### development
 ```
 npm run dev
-```
 
-### questions?
-
-Open an [issue](https://github.com/xicombd/phaser-multiplayer-game/issues), and I'll try to answer :)
